@@ -1,0 +1,14 @@
+name: nba-lineup-optimizer
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - jinja2
+  - pip
+  - pandas
+  - python
+  - python-dotenv
+  - catboost
+  - seaborn
+  - tqdm
